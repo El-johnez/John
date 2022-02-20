@@ -1,2 +1,1 @@
-This is my git work directory 
-hey John be cool 
+this is a directory for my git and Nasfisat is my Tutor
